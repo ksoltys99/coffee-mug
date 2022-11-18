@@ -1,0 +1,19 @@
+{
+  "products": [
+    { "id": 2, "name": "product2", "price": 1999, "updateDate": "" },
+    { "id": 3, "name": "product3", "price": 2999, "updateDate": "" },
+    { "id": 4, "name": "product4", "price": 3999, "updateDate": "" },
+    { "id": 5, "name": "product5", "price": 699, "updateDate": "" },
+    {
+      "id": 6,
+      "name": "asdsdsadasd",
+      "price": 100000,
+      "updateDate": "2022-11-18T21:01:39.933Z"
+    },
+    { "id": 7, "name": "test-name", "price": 1000 },
+    { "id": 8, "name": "asdsdsadasd", "price": 100000 },
+    { "id": 9, "name": "asdsdsadasd", "price": 100000 },
+    { "id": 10, "name": "asdsdsadasd", "price": 100000 },
+    { "id": 11, "name": "asdsdsadasd", "price": 100000 }
+  ]
+}
