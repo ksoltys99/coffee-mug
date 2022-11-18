@@ -5,6 +5,7 @@ const express = require("express");
 const app = express();
 const productRouter = require("./src/routes/products");
 
+app.use(express.urlencoded());
 app.use(bodyParser.json());
 
 app.use("/products", productRouter);
